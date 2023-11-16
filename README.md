@@ -1,3 +1,5 @@
+# SportsSystem
+⭐基于SpringBoot，Spring Security，Redis，JWT，websocket，hutool框架开发的广东海洋大学体育馆管理系统
 # 快速开始
 
 > 运行手册
